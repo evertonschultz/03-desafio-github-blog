@@ -2,8 +2,9 @@
 
 ## 💻 Sobre o projeto
 
-<p align="center">É uma aplicação que utiliza a API do GitHub para buscar issues de um repositório, dados do seu perfil e exibir elas como um blog.</p>
-<p align="center">O projeto foi desenvolvido no desafio 03 da trilha atualizada de ReactJs do Ignite, disponibilizado pela Rocketseat.</p>
+É uma aplicação que utiliza a API do GitHub para buscar issues de um repositório, dados do seu perfil e exibir elas como um blog.
+
+O projeto foi desenvolvido no desafio 03 da trilha atualizada de ReactJs do Ignite, disponibilizado pela Rocketseat.
 
 ---
 

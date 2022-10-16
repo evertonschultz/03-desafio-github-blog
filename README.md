@@ -33,11 +33,11 @@ Para o desenvolvimento foram aplicados conceitos como:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="GithubBlog" title="#GithubBlog" src="./assets/web-posts.png" width="400px">
+  <img alt="GithubBlog" title="#GithubBlog" src="./src/assets/blog/web-posts.png" width="400px">
 
-  <img alt="GithubBlog" title="#GithubBlog" src="./assets/web-post.png" width="400px">
+  <img alt="GithubBlog" title="#GithubBlog" src="./src/assets/blog/web-post.png" width="400px">
 
-  <img alt="GithubBlog" title="#GithubBlog" src="./assets/web-posts-search.png" width="400px">
+  <img alt="GithubBlog" title="#GithubBlog" src="./src/assets/blog/web-posts-search.png" width="400px">
 </p>
 
 ---
@@ -72,7 +72,7 @@ $ npm run dev
 ## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  [VITE](https://vitejs.dev/)  +  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Website**  ([VITE](https://vitejs.dev/)  +  [React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[React Router Dom](https://reactrouter.com/en/main)**
 -   **[Font Awesome](https://fontawesome.com/docs/web/use-with/react/)**

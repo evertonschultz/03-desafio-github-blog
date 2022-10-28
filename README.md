@@ -23,7 +23,7 @@ Para o desenvolvimento foram aplicados conceitos como:
 
 ## 🎨 Layout
 
-### Mobile
+### Web responsivo (Mobile)
 
 <p align="center">
   <img alt="GithubBlog" title="#GithubBlog" src="./src/assets/blog/mobile-posts.png" width="200px">
@@ -31,7 +31,7 @@ Para o desenvolvimento foram aplicados conceitos como:
   <img alt="GithubBlog" title="#GithubBlog" src="./src/assets/blog/mobile-post.png" width="200px">
 </p>
 
-### Web
+### Web (Desktop)
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="GithubBlog" title="#GithubBlog" src="./src/assets/blog/web-posts.png" width="400px">
@@ -84,6 +84,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Styled Components](https://styled-components.com/)**
 -   **[Zod](https://github.com/colinhacks/zod)**
 
+---
+
 ## 🦸 Autor
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/19807265?v=4" width="100px;" alt=""/>
  <br />
@@ -92,3 +94,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Everton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/%C3%A9verton-schultz-824a1612b/)](https://www.linkedin.com/in/https://www.linkedin.com/in/%C3%A9verton-schultz-824a1612b/)
 [![Gmail Badge](https://img.shields.io/badge/-evertonf.m.schultz98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evertonf.m.schultz98@gmail.com)](mailto:evertonf.m.schultz98@gmail.com)
+
+---
+
+## License
+Este projeto pode ser usado por qualquer pessoa! Licença MIT
